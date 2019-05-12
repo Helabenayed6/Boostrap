@@ -1,0 +1,157 @@
+.containercontent{witdh:750px;}
+.containercontent{padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;}
+.containercontent{color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;}
+    .containercontent{position: relative ;border-radius: 50%}
+    .picture{position: relative;
+    top: -100px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius:80%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);}
+    img {
+    vertical-align: middle;
+}
+
+
+.cover{ width: 100%;
+    height: 300px;
+    background-color: #eee;
+    background: url(res/hello.jpg) center no-repeat;
+    background-size: cover;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .2);}
+
+.body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;}
+    .social {
+    color: #2196F3;
+    position: relative;
+    top: -50px;
+    display: block;
+    text-align: center;padding: 10px
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.social i {
+    padding: 3px;
+}
+#social:hover{color:#808080}
+.Studies col-md col xs-12{width: 100%;font-family: 'Merriweather', serif;
+    font-size: 2em;
+    color: #2196F3;margin-top: 20px;
+    margin-bottom: 10px;}
+
+    h1{display: block;
+    font-size: 1em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
+.row{padding-left:50px;}
+.row { margin-right: -15px; margin-left: -15px}
+* {
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+.interests{padding-left: 50px;}
+.name{font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: -60px;
+    color: #444;font-size: 25px}
+    .tagline{font-family: 'Roboto', sans-serif;font-size:8px
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: -70px;
+    color: #444;}
+    .projects img:hover {
+    cursor: pointer;
+    box-shadow: none;
+    transition: box-shadow .3s;
+}
+
+.heading{margin-top: 10px;font-family: 'Merriweather', serif;
+    font-size: 2em;
+    color: #2196F3;padding-top: 10px}
+    .projects img {border-radius: 3.5px;
+    margin: 20px 10 30px 10;}
+
+.row text-centered:{box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);}
+    .img-responsive{display: block; max-width: 100%; height:auto;padding-top: 10%}
+    .responsive{display: block; max-width: 100%; height: 20%;}
+    .Head {font-family: 'Merriweather', serif; font-size: 2em;color: #2196F3;}
+    .interests i {color: #222;padding: 30px;
+    transition: transform .5s;}
+img{vertical-align: middle;}
+.interests i {
+    color: #222;
+    padding: 30px;
+    transition: transform .5s;
+}
+.fa-2x {
+    font-size: 2em;
+}
+.fa-anchor{font-size:4em}
+.fa-bath{font-size:4em}
+.fa-grav{font-size:4em}
+.fa-female{font-size:4em}
+@media (min-width: 768px)
+.col-sm-4 {
+    width: 33.33333333%;
+}
+
+@media (min-width: 768px)
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+.col-xs-6 {
+    width: 50%;
+}
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    float: left;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.text-centered {
+    text-align: center;
+}
+
+@keyframes animation{0%{transform :rotate(10deg);}
+50%{transform:rotate(-10deg);}
+100%{transform:rotate(10deg);}}
+
+
+#animation:hover
+{animation:animation 1s ease infinite;color:#2196F3 }
+
+
